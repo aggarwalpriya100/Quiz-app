@@ -26,10 +26,10 @@ This project contains 10 multiple-choice questions with real-time score calculat
 ## 📸 Screenshots
 
 ### 🧠 Question Screen
-![Question Screen](screenshots/question.png)
+![Question Screen](question.png)
 
 ### 🏆 Result Screen
-![Result Screen](screenshots/result.png)
+![Result Screen](result.png)
 
 ---
 
